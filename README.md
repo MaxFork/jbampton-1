@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>What's the story?</h1>
+<div align="center"><h1>Good afternoon</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -103,9 +103,9 @@
 
 ## Random Wikipedia
 
-Mlomp is a rural community and village in the Ziguinchor Region of Senegal in the Casamance, situated approximately 40 km (25 mi) south-west of Ziguinchor.
+Giacomo Mari was an Italian footballer who played as a midfielder.
 
-https://en.m.wikipedia.org/wiki/Mlomp
+https://en.m.wikipedia.org/wiki/Giacomo_Mari
 
 ## Chess is Art
 
